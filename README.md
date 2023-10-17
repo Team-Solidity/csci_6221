@@ -1,6 +1,8 @@
 # CSCI 6221 Advanced Software Paradigms Course Project Fall 2023
 
 ## Team Name - Solidity
+## Project - Decentralized Social Media
+
 ## Team Members - 
 1. [Vaibhav Vemula](https://github.com/vaibhav-vemula)
 2. [Sai Sarvanth Vedula]()
